@@ -1,7 +1,6 @@
 h1{
-    margin-top: 100px;
-    
-
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .footer{
@@ -16,7 +15,7 @@ body{
     background: url(../images/cool-background.png)
 }
 
-.me{
+.img-me{
     width: 270px;
     height: 350px;
     margin-right: 500px;
