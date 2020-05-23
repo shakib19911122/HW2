@@ -1,6 +1,12 @@
 h1{
     margin-top: 50px;
     margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 
 .footer{
@@ -16,11 +22,13 @@ body{
 }
 
 .img-me{
+    float: left;
     width: 270px;
     height: 350px;
-    margin-right: 500px;
+    margin-right: 50px;
     
 }
+
 
 
     
